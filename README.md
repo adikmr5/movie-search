@@ -32,4 +32,6 @@ While searching for movies, if you hover on a particular result, Add to favourit
 
 The same can be done to fav list. Here option to remove from fav will come.
 
+**Demo Link https://youtu.be/XYFCT6AAvRs**
+
 > More features coming soon!
